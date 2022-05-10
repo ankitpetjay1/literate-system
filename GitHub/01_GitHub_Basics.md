@@ -254,6 +254,8 @@ Github is web based hosting service for git and extends what we can do with git.
 
 **GitHub Dashboard**
 
+!["GitHub dashboard"](./01_git_dash.jpg)
+
 - _Repo_: A repository is a building block of GitHub
 - _Issues_: Users can log bugs using issues.
 - _Pull Request_: Someone asking you to merge changes into another branch.
