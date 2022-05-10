@@ -410,3 +410,50 @@ We can create a new repo using the Github GUI from the repositories tab beside p
 After creating the GitHub repository in previous steps, we are ready to clone the repo to our local machine.
 
 Obtain the clone ssh link from within the Code dropdown in the repository code view.
+
+Create a new directory and cd to it, should not be linked to an older directory
+
+```bash
+mkdir "C:/codes/Projects"
+cd "C:/codes/Projects"
+```
+
+Use git clone along with the ssh url to clone the repo.
+
+```bash
+git clone git@github.com:ankitpetjay1/literate-system.git
+```
+
+cd into the repo which will now display (main) since it is the main repo.
+
+```bash
+cd "C:/codes/Projects/literate-system"
+```
+
+Check git status to view local repo status
+
+> It first displays if we are on main branch
+>
+> Then if your branch is up to date with 'origin/main'. origin is remote branch and our local remote tracking branch is main
+>
+> And if anything has been added to be tracked.
+
+We will not copy couple of files to the directory to add them to git.  
+Next add all files to git.
+
+```bash
+git add .
+```
+
+After adding all files git is now tracking it but we still need to commit it to the repository.
+
+```bash
+git commit -m "My first commit!"
+```
+
+Now the files have been commited to the local git not GitHub which is the origin branch.  
+We use the git push command to push it to the main branch
+
+```bash
+git push origin main
+```
