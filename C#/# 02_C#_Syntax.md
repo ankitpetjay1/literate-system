@@ -22,7 +22,7 @@ The grades are entered as floating point numbers from 0 to 100, and the statisti
 
 Variables are storage location to hold some value.
 
-Similar to parameters of Main method every variables has name and a type.
+Similar to parameters of Main method every variable has name and a type.
 
 To declare a float variable named x:
 
