@@ -1,0 +1,14 @@
+C:\code\Projects\literate-system\C#\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.exe
+C:\code\Projects\literate-system\C#\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.deps.json
+C:\code\Projects\literate-system\C#\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.json
+C:\code\Projects\literate-system\C#\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.dev.json
+C:\code\Projects\literate-system\C#\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.dll
+C:\code\Projects\literate-system\C#\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.pdb
+C:\code\Projects\literate-system\C#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.AssemblyReference.cache
+C:\code\Projects\literate-system\C#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Projects\literate-system\C#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfoInputs.cache
+C:\code\Projects\literate-system\C#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfo.cs
+C:\code\Projects\literate-system\C#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.CoreCompileInputs.cache
+C:\code\Projects\literate-system\C#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
+C:\code\Projects\literate-system\C#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
+C:\code\Projects\literate-system\C#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache
