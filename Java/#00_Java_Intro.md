@@ -4,7 +4,7 @@
 
 1. Installing and Running Java
 2. Using IntelliJ for Development
-3. Packaging Java Applications
+3. Packaging Java Application
 
 ---
 
